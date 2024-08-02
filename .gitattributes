@@ -5,3 +5,4 @@ zip-window-wallet.zip filter=lfs diff=lfs merge=lfs -text
 zip-window-64.zip filter=lfs diff=lfs merge=lfs -text
 zipcore-20.1.2-win64-setup.exe filter=lfs diff=lfs merge=lfs -text
 zip-20.1.2-win64.zip filter=lfs diff=lfs merge=lfs -text
+zip-aarch64-linux-gnu.tar.gz filter=lfs diff=lfs merge=lfs -text
